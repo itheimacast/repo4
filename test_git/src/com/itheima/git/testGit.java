@@ -7,5 +7,7 @@ public class testGit {
         System.out.println("helloword git");
         System.out.println("helloword git");
         System.out.println("helloword git");
+        System.out.println("小乌龟");
+        System.out.println("小黑鬼");
     }
 }
